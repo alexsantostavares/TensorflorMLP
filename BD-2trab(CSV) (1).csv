@@ -1,0 +1,13 @@
+﻿Alternativo,Bar,Sex/Sab,Faminto,Cliente,Preço,Chove,Reserva,Tipo,Espera,Meta
+Sim,Não,Não,Sim,Alg,$$$,Não,Sim,Fra,0-10,Sim
+Sim,Não,Não,Sim,Che,$,Não,Não,Tai,30-60,Não
+Não,Sim,Não,Não,Alg,$,Não,Não,Ham,0-10,Sim 
+Sim,Não,Sim,Sim,Che,$,Sim,Não,Tai,10-30,Sim
+Sim,Não,Sim,Não,Che,$$$,Não,Sim,Fra,>60,Não
+Não,Sim,Não,Sim,Alg,$$,Sim,Sim,Ita,0-10,Sim
+Não,Sim,Não,Não,Ne,$,Sim,Não,Ham,0-10,Não
+Não,Não,Não,Sim,Alg,$$,Sim,Sim,Tai,0-10,Sim
+Não,Sim,Sim,Não,Che,$,Sim,Não,Ham,>60,Não
+Sim,Sim,Sim,Sim,Che,$$$,Não,Sim,Ita,10-30,Não
+Não,Não,Não,Não,Ne,$,Não,Não,Tai,0-10,Não
+Sim,Sim,Sim,Sim,Che,$,Não,Não,Ham,30-60,Sim
